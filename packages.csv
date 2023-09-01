@@ -1,0 +1,35 @@
+scan,Format,Size,Version,Location,Architecture,Name,install_time,Vendor,agent_id
+"{""id"":0,""time"":""2023-07-31T07:19:01+00:00""}",win,0,1.40.4,C:\Program Files (x86)\Metabase\,i686,Metabase version 1.40.4,20230614,Metabase,1
+"{""id"":0,""time"":""2023-07-31T07:19:01+00:00""}",win,0,23.3.2,C:\Program Files (x86)\Adobe\,i686,Photoshop version 23.3.2,20230614,Adobe,1
+"{""id"":0,""time"":""2023-07-31T07:19:02+00:00""}",win,0,3.11.4150.0,-,x86_64,Python 3.11.4 Tcl/Tk Support (64-bit),20230614,Python Software Foundation,1
+"{""id"":0,""time"":""2023-07-31T07:19:02+00:00""}",win,0,14.36.32532,-,x86_64,Microsoft Visual C++ 2022 X64 Additional Runtime - 14.36.32532,20230614,Microsoft Corporation,1
+"{""id"":0,""time"":""2023-07-31T07:19:02+00:00""}",win,0,4.3.10,-,i686,Wazuh Agent,20230614,"Wazuh, Inc.",1
+"{""id"":0,""time"":""2023-07-31T07:19:02+00:00""}",win,0,14.36.32532,-,x86_64,Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.36.32532,20230614,Microsoft Corporation,1
+"{""id"":0,""time"":""2023-07-31T07:19:02+00:00""}",win,0,3.11.4150.0,-,x86_64,Python 3.11.4 Add to Path (64-bit),20230614,Python Software Foundation,1
+"{""id"":0,""time"":""2023-07-31T07:19:02+00:00""}",win,0,2.39.0.124,C:\Program Files\Process Hacker 2\,x86_64,Process Hacker 2.39 (r124),20230614,wj32,1
+"{""id"":0,""time"":""2023-07-31T07:19:02+00:00""}",win,0,430,C:\Program Files (x86)\SAP\,i686,BusinessObjects BI version 430,20230614,SAP,1
+"{""id"":0,""time"":""2023-07-31T07:19:02+00:00""}",win,0,14.36.32532,-,i686,Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.36.32532,20230614,Microsoft Corporation,1
+"{""id"":0,""time"":""2023-07-31T07:19:03+00:00""}",win,0,14.36.32532,-,i686,Microsoft Visual C++ 2022 X86 Additional Runtime - 14.36.32532,20230614,Microsoft Corporation,1
+"{""id"":0,""time"":""2023-07-31T07:19:03+00:00""}",win,0,7.0.4.154605,-,x86_64,Oracle VM VirtualBox Guest Additions 7.0.4,-,Oracle and/or its affiliates,1
+"{""id"":0,""time"":""2023-07-31T07:19:03+00:00""}",win,0,14.36.32532.0,-,i686,Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.36.32532,-,Microsoft Corporation,1
+"{""id"":0,""time"":""2023-07-31T07:19:03+00:00""}",win,0,3.11.4150.0,-,x86_64,Python 3.11.4 Development Libraries (64-bit),20230614,Python Software Foundation,1
+"{""id"":0,""time"":""2023-07-31T07:19:03+00:00""}",win,0,3.6.1,C:\Program Files (x86)\Dell\,i686,Dell Wyse Management Suite version 3.6.1,20230614,Dell,1
+"{""id"":0,""time"":""2023-07-31T07:19:03+00:00""}",win,0,3.11.4150.0,-,x86_64,Python 3.11.4 Test Suite (64-bit),20230614,Python Software Foundation,1
+"{""id"":0,""time"":""2023-07-31T07:19:03+00:00""}",win,0,1.3.177.11,-,i686,Microsoft Edge Update,-,-,1
+"{""id"":0,""time"":""2023-07-31T07:19:03+00:00""}",win,0,3.11.4150.0,-, ,Python 3.11.4 (64-bit),-,Python Software Foundation,1
+"{""id"":0,""time"":""2023-07-31T07:19:04+00:00""}",win,0,22.01,C:\Program Files\7-Zip\,x86_64,7-Zip 22.01 (x64),-,Igor Pavlov,1
+"{""id"":0,""time"":""2023-07-31T07:19:04+00:00""}",win,0,8.5.3,-,x86_64,Notepad++ (64-bit x64),-,Notepad++ Team,1
+"{""id"":0,""time"":""2023-07-31T07:19:04+00:00""}",win,0,0.0.3,C:\Program Files (x86)\Psyonix\,i686,Rocket League version 0.0.3,20230614,Psyonix,1
+"{""id"":0,""time"":""2023-07-31T07:19:04+00:00""}",win,0,3.11.4150.0,-,x86_64,Python 3.11.4 Utility Scripts (64-bit),20230614,Python Software Foundation,1
+"{""id"":0,""time"":""2023-07-31T07:19:04+00:00""}",win,0,3.11.4150.0,-,x86_64,Python 3.11.4 Core Interpreter (64-bit),20230614,Python Software Foundation,1
+"{""id"":0,""time"":""2023-07-31T07:19:04+00:00""}",win,0,14.36.32532.0,-,i686,Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.36.32532,-,Microsoft Corporation,1
+"{""id"":0,""time"":""2023-07-31T07:19:04+00:00""}",win,0,3.11.4150.0,-,x86_64,Python 3.11.4 Standard Library (64-bit),20230614,Python Software Foundation,1
+"{""id"":0,""time"":""2023-07-31T07:19:04+00:00""}",win,0,6.22.0,C:\Program Files\WinRAR\,x86_64,WinRAR 6.22 (64-bit),-,win.rar GmbH,1
+"{""id"":0,""time"":""2023-07-31T07:19:04+00:00""}",win,0,3.11.4150.0,-,x86_64,Python 3.11.4 Documentation (64-bit),20230614,Python Software Foundation,1
+"{""id"":0,""time"":""2023-07-31T07:19:04+00:00""}",win,0,3.11.4150.0,-,x86_64,Python 3.11.4 Executables (64-bit),20230614,Python Software Foundation,1
+"{""id"":0,""time"":""2023-07-31T07:19:05+00:00""}",win,0,2.0.10.13,C:\Program Files (x86)\Magical Jelly Bean\,i686,Magical Jelly Bean KeyFinder,20230614,Magical Jelly Bean,1
+"{""id"":0,""time"":""2023-07-31T07:19:05+00:00""}",win,0,3.11.4150.0,-,i686,Python Launcher,20230614,Python Software Foundation,1
+"{""id"":0,""time"":""2023-07-31T07:19:05+00:00""}",win,0,3.11.4150.0,-,x86_64,Python 3.11.4 pip Bootstrap (64-bit),20230614,Python Software Foundation,1
+"{""id"":0,""time"":""2023-09-01T07:24:24+00:00""}",win,0,116.0.1938.62,C:\Program Files (x86)\Microsoft\Edge\Application,i686,Microsoft Edge,20230901,Microsoft Corporation,1
+"{""id"":0,""time"":""2023-09-01T07:24:25+00:00""}",win,0,2010,C:\Program Files\Microsoft\,x86_64,Excel version 2010,20230901,Microsoft,1
+"{""id"":0,""time"":""2023-09-01T07:24:27+00:00""}",win,0,2019,C:\Program Files\Microsoft\,x86_64,Office version 2019,20230901,Microsoft,1
